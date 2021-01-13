@@ -1,4 +1,4 @@
-# Gymnocercus Foundation Normal Exam
+# IBS Coding Fundamentals Exam
 
 ## Getting Started
 
